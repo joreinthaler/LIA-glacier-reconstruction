@@ -3,7 +3,7 @@
 Code example for extending glacier cross sections until they reach the glacier outline.
 This was used in the LIA glacier surface reconstruction by Reinthaler & Paul 2024 (https://doi.org/10.1016/j.geomorph.2024.109321)
 
-@author: Adrien Wehrlé & Johannes Reinthaler
+@author: Johannes Reinthaler & Adrien Wehrlé
 
 For best usage, use short cross section to start, we recommend around 10 m. 
 """
